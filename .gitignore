@@ -1,0 +1,8 @@
+/target/
+*.dll
+*.tgz
+*.zip
+*.log
+.cargo/
+.DS_Store
+Thumbs.db
